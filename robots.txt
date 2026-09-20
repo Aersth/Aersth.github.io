@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aersth.github.io/sitemap.xml
